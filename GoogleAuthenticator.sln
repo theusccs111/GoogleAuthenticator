@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuth", "GoogleAuth\GoogleAuth.csproj", "{23B851EF-3F6B-47CF-A0F3-B61D13D5517D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B851EF-3F6B-47CF-A0F3-B61D13D5517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B851EF-3F6B-47CF-A0F3-B61D13D5517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B851EF-3F6B-47CF-A0F3-B61D13D5517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B851EF-3F6B-47CF-A0F3-B61D13D5517D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADBBEC0-0CCA-4A85-BCA5-5CAFA70B22F1}
+	EndGlobalSection
+EndGlobal
